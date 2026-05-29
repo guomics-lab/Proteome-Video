@@ -4,4 +4,4 @@ This repository contains analysis code and metadata for a minute-scale DIA-MS pr
 
 Raw mass spectrometry data are deposited in PRIDE/ProteomeXchange. Processed matrices, sample metadata, and analysis scripts are provided here to support reproducibility of the manuscript.
 
-Codes coming soon!
+Codes coming soon! (Before 2026-05-30 12：00 UTC)
