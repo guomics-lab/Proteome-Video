@@ -1,0 +1,26 @@
+# Generated data files (reproduced by running the pipeline)
+20250610_PV_report.pg_matrix.csv
+20250610_wsy_PV_report.pg_matrix.tsv
+
+# Output directories contain reproduced intermediates
+Step00_Preprocess/output/*
+!Step00_Preprocess/output/.gitkeep
+Step01_Overview/output/*
+!Step01_Overview/output/.gitkeep
+Step02_Clustering/output/*
+!Step02_Clustering/output/.gitkeep
+Step03_GAM/output/*
+!Step03_GAM/output/.gitkeep
+Step04_Modeling/output/*
+!Step04_Modeling/output/.gitkeep
+Step05_Interpretation/output/*
+!Step05_Interpretation/output/.gitkeep
+
+# Temporary files
+_cleanup_notes.md
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
